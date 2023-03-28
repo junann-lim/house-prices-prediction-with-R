@@ -11,3 +11,5 @@ The dataset used in this work was obtained from Kaggle, which is a dataset prese
 ![image](https://user-images.githubusercontent.com/129178911/228336455-7876f412-5c29-4487-95c5-4b2b91a4668d.png)
 
 In overall, the results show that XGBoost demonstrated the best performance in predicting house price after cross-validation against the original dataset. The results obtained is consistent with most of the literatures reviewed. This means that XGBoost is effective in predicting house prices and this algorithm can be recommended to property developers, real-estate agents, and house seller.
+
+The complete report can be viewed here --> https://github.com/junann-lim/data-science-projects/blob/main/Prediction%20of%20House%20Prices%20Using%20Machine%20Learning%20Techniques.pdf
