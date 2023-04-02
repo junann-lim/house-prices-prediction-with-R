@@ -1,4 +1,4 @@
-<b>Prediction of House Prices Using Machine Learning Techniques</b>
+# Prediction of House Prices Using Machine Learning Techniques
 
 In this project, three machine learning models, namely linear regression (LR), random forest (RF), and extreme gradient boosting (XGBoost), were used to predict house prices. Additionally, principle component analysis (PCA) was also used to reduce the dimensionality of the dataset. Besides, cross-validation was also perform to prevent overfitting of the models.
 
